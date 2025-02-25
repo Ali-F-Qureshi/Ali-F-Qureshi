@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ali-F-Qureshi
-- 👀 I’m interested in CyberSecurity, though at the moment I am solidifying my basics and expanding my knowledge
+- 👀 I’m interested in CyberSecurity, though at the moment I am solidifying my basics and expanding my knowledge in all things coding
 - 🌱 I’m currently learning Python, C, Java, Javascript, HTML, CSS, SQL
 - 💞️ I’m looking to collaborate on anything low commitment, right now I am focusing on my studies
 - 📫 How to reach me aliqureshi20@outlook.com
